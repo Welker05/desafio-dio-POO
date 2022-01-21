@@ -39,7 +39,7 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando car
 <br>
 <h2 align="center"> CONCEITOS FUNDAMENTAIS POO </h2>
 <p>
-<h3>?? DOMÍNIO:</h3> 
+<h3> DOMÍNIO:</h3> 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 
 <h3> CLASSE: </h3> 
